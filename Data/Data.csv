@@ -1,9 +1,9 @@
 Name,Typ,Geschwindigkeit,Leistung,Hubraum,Länge,Gewicht
-0=Mehr ist besser,,0,0,0,0,1
+0=Mehr ist besser 1=Weniger ist besser -=Keine Daten,,0,0,0,0,1
 Einheit,,km/h,PS,ccm,Meter,kg
 Mercedes Citaro/GRTW,Bus,100,279,6374,12,17000
-Iljushin II-76 Candid,Flugzeug,850,t,0,46.59,t
-McCormick ZTX280,Traktor,t,280,8300,5.34,9140
+Iljushin II-76 Candid,Flugzeug,850,-,0,46.59,-
+McCormick ZTX280,Traktor,-,280,8300,5.34,9140
 Flying Boat,Landrakete,476,1860,7480,5.8,740
-Bombardier Baureihe 187,Lok,140,7616,t,18.9,88000
-Opel Manta,Auto,185,105,1875,t,1060
+Bombardier Baureihe 187,Lok,140,7616,-,18.9,88000
+Opel Manta,Auto,185,105,1875,-,1060
